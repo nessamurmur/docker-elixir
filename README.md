@@ -14,6 +14,15 @@ To learn more about Elixir, check the [getting started guide](http://elixir-lang
 
 ```
   FROM niftyn8/elixir
+
+  # Do stuff for my project here
+```
+
+You can also use it for a simple IEx repl:
+
+```
+  docker pull nifty/elixir
+  docker run -t -i nifty/elixir
 ```
 
 ## Issues
