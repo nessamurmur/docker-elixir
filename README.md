@@ -13,7 +13,7 @@ To learn more about Elixir, check the [getting started guide](http://elixir-lang
 #### Create a `Dockerfile` in your Project
 
 ```
-  FROM niftyn8/elixir
+  FROM nifty/elixir
 
   # Do stuff for my project here
 ```
