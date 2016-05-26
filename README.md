@@ -6,7 +6,7 @@ Elixir is a dynamic, functional language designed for building scalable and main
 
 Elixir leverages the Erlang VM, known for running low-latency, distributed and fault-tolerant systems, while also being successfully used in web development and the embedded software domain.
 
-To learn more about Elixir, check the [getting started guide](http://elixir-lang.org/getting_started/1.html) or [the official website](http://elixir-lang.org/).
+To learn more about Elixir, check the [getting started guide](http://elixir-lang.org/getting_started) or [the official website](http://elixir-lang.org/).
 
 ## How to use This Image
 
